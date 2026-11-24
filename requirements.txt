@@ -1,0 +1,7 @@
+@"
+pandas
+scikit-learn
+numpy
+pyyaml
+jupyter
+"@ | Out-File -Encoding ascii requirements.txt

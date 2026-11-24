@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Data
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
